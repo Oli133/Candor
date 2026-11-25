@@ -1,0 +1,6 @@
+{
+  "name": "Candor",
+  "description": "A transparent AI reasoning chatbot designed for clear, non-manipulative answers with visible thinking steps, stated assumptions, and calibrated uncertainty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

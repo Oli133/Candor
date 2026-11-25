@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Candor</string>
+    <string name="brand_tagline">Transparent AI reasoning without persuasion or hidden framing</string>
+    <string name="model_badge">gemini-3.8-flash · High Thinking · Free</string>
+    <string name="cd_transparency_settings">Open transparency controls</string>
+    <string name="cd_new_session">Start new conversation</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_stop_generation">Stop generating</string>
+    <string name="cd_toggle_reasoning">Toggle reasoning trace</string>
+    <string name="cd_welcome_illustration">Geometric prism refracting light into clear parallel rays</string>
+    <string name="cd_candor_emblem">Candor emblem</string>
+    <string name="composer_placeholder">Ask anything — evaluate trade-offs, test claims, or reason step by step…</string>
+    <string name="thinking_in_progress">Reasoning deeply (High Thinking)…</string>
+    <string name="thinking_trace_title">Reasoning Trace</string>
+    <string name="welcome_heading">Clear answers.\nVisible reasoning.</string>
+    <string name="welcome_body">Candor avoids flattery, persuasive nudges, and false certainty. Every answer exposes its reasoning steps, assumptions, and limits.</string>
+    <string name="starter_prompts_label">TRY ASKING</string>
+    <string name="new_session_label">New Session</string>
+    <string name="settings_sheet_title">Transparency Controls</string>
+    <string name="settings_sheet_subtitle">Configure how Candor structures reasoning and communicates uncertainty. Powered by ThinkingLevel.HIGH.</string>
+    <string name="error_retry">Retry</string>
+    <string name="error_dismiss">Dismiss</string>
+</resources>
